@@ -1,1 +1,1 @@
-# macmini-meets-maas
+# NetBooting MacMini over MAAS
